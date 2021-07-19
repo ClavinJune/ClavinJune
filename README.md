@@ -6,7 +6,7 @@ Not limited to software engineering, I like to explore other things like history
 I love to express my thoughts on my [blog](https://clavinjune.dev) as an author and [podcast](https://positif.dev) as a co-host.
 
 - 🔭 I’m currently working as a DevOps Engineer at [OKHOME](https://okhome.id)
-- 🌱 I’m currently learning **Rust**, **Ruby**, **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 - 👯 I’m looking to collaborate on **anything!**
 - 💬 Ask me about **anything**
 - 📫 Contact me on: [LinkedIn](https://linkedin.com/in/juneardoc) or [Email](mailto:juneardoc@gmail.com)
