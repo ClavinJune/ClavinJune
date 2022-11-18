@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clavin June</h1>
 <h3 align="center">A software engineer who likes to explore things</h3>
 
-- 🔭 I’m currently working as a Backend Infrastructure Engineer at [Traveloka](https://traveloka.com)
+- 🔭 I’m currently working as a Software Infrastructure Engineer at [Gopay](https://gopay.co.id)
 
 - 🌱 I’m currently learning **Japanese, Kubernetes, Serverless, and AWS**
 
